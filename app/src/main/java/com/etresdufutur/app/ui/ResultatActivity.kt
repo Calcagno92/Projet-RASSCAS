@@ -41,8 +41,8 @@ class ResultatActivity : AppCompatActivity() {
             val resId = PersonnageRepository.resoudreDrawable(this, personnage.imageFile)
             if (resId != 0) imagePersonnage.setImageResource(resId)
         } else {
-            // N'arrive pas si les 48 combinaisons sont bien couvertes,
-            // mais on évite un crash si jamais une combinaison manque.
+            /* N'arrive pas si les 48 combinaisons sont bien couvertes, mais on évite un crash
+            si jamais une combinaison manque.*/
             nomPersonnage.text = "Profil non trouvé"
             explicationPersonnage.text =
                 "Combinaison ($rapportVivant / $visionProgres / $relationTech) absente de personnages.json."

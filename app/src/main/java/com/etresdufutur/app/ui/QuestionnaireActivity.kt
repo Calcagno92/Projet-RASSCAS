@@ -123,7 +123,7 @@ class QuestionnaireActivity : AppCompatActivity() {
 
     // --- Aide : conversion dp → pixels, et fond visuel des blocs de réponse -------
 
-    /** Titre affiché pour chaque thème, entre le compteur et le texte de la question. */
+    /** Titre affiché pour chaque thème, entre le compteur et le texte de la question. **/
     private fun titreTheme(theme: com.etresdufutur.app.data.Theme): String = when (theme) {
         com.etresdufutur.app.data.Theme.RAPPORT_VIVANT -> "Quel est ton rapport au vivant ?"
         com.etresdufutur.app.data.Theme.VISION_PROGRES -> "Qu'attends-tu du progrès ?"
@@ -176,7 +176,7 @@ class QuestionnaireActivity : AppCompatActivity() {
         }
     }
 
-    // --- Navigation par touches (flèches du Raspberry Pi en HID) ------------------
+    // Navigation par touches (flèches du Raspberry Pi en HID)
 
     override fun onKeyDown(keyCode: Int, event: KeyEvent?): Boolean {
         when (keyCode) {
