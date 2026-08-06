@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "theme": "RAPPORT_VIVANT",
+    "texte": "Selon toi. . .",
+    "reponses": [
+      { "texte": "…dans l’avenir, les humains doivent reprendre leur juste place dans la nature, dont ils font intégralement partie, en tant qu’êtres qui vivent en symbiose avec le reste de la vie.", "type": "Animiste" },
+      { "texte": "…dans l’avenir, les humains doivent prendre soin de la vie qui les entoure, car ils comprennent à quel point l’aventure humaine dépend de la nature et de sa richesse.", "type": "Vivaliste" },
+      { "texte": "…dans l’avenir, les humains doivent mieux comprendre le fonctionnement de la nature, afin de l’accompagner dans son évolution et d’en tirer plus de richesses et d’inspirations.", "type": "Naturaliste" }
+    ]
+  },
+
+  {
+    "id": 2,
+    "theme": "VISION_PROGRES",
+    "texte": "Tu penses que. . .",
+    "reponses": [
+      { "texte": "…nous saurons faire autant avec moins, en privilégiant des techniques simples, réparables, des solutions fondées sur la nature et ne nécessitant que peu d’énergies, des solutions qui favorisent l’autonomie de tous.", "type": "Frugale" },
+      { "texte": "…nous aurons développé des solutions locales, basées sur des communautés fortement liées à leurs territoires et aux ressources qui les entourent et qui privilégient l’adaptation et la coopération.", "type": "Coopération" },
+      { "texte": "…nous aurons développé de nombreuses alternatives pour produire et distribuer des énergies propres et abondantes, qui seront devenues le moteur d’une nouvelle forme de développement plus respectueux de notre environnement.", "type": "Croissance verte" },
+      { "texte": "…nous aurons développé de nouvelles techniques pour dépolluer la terre, protéger les ressources naturelles, corriger les effets du changement climatique, afin d’assurer au plus grand nombre des conditions de vie acceptables sur terre.", "type": "Réparation" }
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "RELATIONS_TECH",
+    "texte": "Toi, personnellement, ...",
+    "reponses": [
+      { "texte": "…tu adores toutes les nouveautés, les innovations te fascinent et t’amusent, et tu es toujours dans les premiers à les tester ce qui sors, par curiosité, par plaisir, pour le goût d’apprendre. Demain, tu seras parmi ceux qui explorent.", "type": "Geek" },
+      { "texte": "…tu t’intéresses aux nouveautés, que tu découvres avec curiosité et que tu utilises pour améliorer ta vie, ton travail, tes loisirs ou ta santé. Demain, tu feras partie de celles et ceux qui sont dans le mouvement.", "type": "Dans le mouvement" },
+      { "texte": "…tu sais résister aux effets de mode, tu prends ton temps. En général, tu attends que les nouveautés aient été testées, qu’elles aient démontré leur utilité, avant de les intégrer dans tes usages. Demain, tu seras parmi les prudents.", "type": "Suiveur" },
+      { "texte": "…par défaut, tu te méfies des nouveautés. Chez toi, le sens critique est important, et tu n’hésites pas à questionner les innovations: leur utilité, leurs impacts possibles, leur fonctionnement. Demain, tu fais partie de ceux qui posent les questions d’éthique.", "type": "Méfiant" }
+    ]
+  }
+]

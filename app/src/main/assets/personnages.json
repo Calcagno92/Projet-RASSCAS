@@ -1,0 +1,386 @@
+[
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Frugale",
+    "relationTech": "Geek",
+    "nom": "Panoramix",
+    "explication": "Avide d’inventer de nouvelles potions, le Druide Panoramix est pleinement intégré dans sa forêt. Il en tire les ingrédients locaux dont il a besoin pour prendre soin des autres et de la nature.",
+    "imageFile": "panoramix.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Frugale",
+    "relationTech": "Dans le mouvement",
+    "nom": "Falbala",
+    "explication": "Falbala vit en harmonie avec la nature qui l'entoure, se contentant de ce qu'elle lui offre pour composer avec élégance et simplicité. Curieuse de nature, elle aime découvrir les nouveautés de son époque et les adopter avec plaisir dès qu'elles lui semblent utiles à son quotidien.",
+    "imageFile": "falbala.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Frugale",
+    "relationTech": "Suiveur",
+    "nom": "Abraracourcix",
+    "explication": "Abraracourcix se sait indissociable de sa terre gauloise, dont il tire fierté et force pour son village. Homme de tradition, il préfère laisser les autres tester les nouveautés et n'adopte que ce qui a fait ses preuves, avec simplicité et bon sens.",
+    "imageFile": "abraracourcix.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Frugale",
+    "relationTech": "Méfiant",
+    "nom": "Idéfix",
+    "explication": "Idéfix vit en parfaite communion avec la forêt et chaque arbre qu'on abat lui est une blessure personnelle. Fidèle à ses habitudes simples, il reste sur ses gardes face à tout ce qui est nouveau, préférant flairer longuement avant de faire confiance.",
+    "imageFile": "idefix.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Coopération",
+    "relationTech": "Geek",
+    "nom": "Schtroumpf Bricoleur",
+    "explication": "Le Schtroumpf Bricoleur se sent lié à chaque recoin de la forêt qui l'entoure, dont il tire ses matériaux pour ses inventions au service du village. Passionné par tout ce qui est nouveau, il est toujours le premier à bricoler et tester les dernières trouvailles, par pur plaisir d'inventer.",
+    "imageFile": "inventeur_schtroumpf.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Coopération",
+    "relationTech": "Dans le mouvement",
+    "nom": "Schtroumphette",
+    "explication": "Schtroumphette se sent profondément attachée à la nature qui entoure le village, une richesse qu'elle partage volontiers avec les autres Schtroumpfs. Curieuse et ouverte, elle aime découvrir les nouveautés et les intégrer avec entrain à la vie de la communauté.",
+    "imageFile": "schtroumphette.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Coopération",
+    "relationTech": "Suiveur",
+    "nom": "Azrael",
+    "explication": "Azraël vit en osmose avec son environnement, toujours à l'affût des moindres signes de la nature qui l'entoure. Fidèle à Gargamel, il préfère observer avant d'agir, laissant aux autres le soin d'essayer les nouveautés avant de s'y risquer lui-même",
+    "imageFile": "azrael.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Coopération",
+    "relationTech": "Méfiant",
+    "nom": "Schtroumpf Grogon",
+    "explication": "Le Schtroumpf Grognon se sent partie intégrante de la forêt, même s'il rechigne à l'admettre à voix haute. Par nature méfiant, il n'hésite jamais à critiquer les idées nouvelles du village, questionnant leur utilité avant d'accepter d'y participer",
+    "imageFile": "schtroumpf_grincheux.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Geek",
+    "nom": "Robot LaPuta",
+    "explication": "Le Robot veille sur le jardin oublié comme s'il en faisait partie, protégeant chaque plante et chaque créature avec une douceur infinie. Fasciné par sa propre mécanique et celle du monde qui l'entoure, il explore sans cesse de nouvelles façons de faire coexister technologie ancienne et vie foisonnante.",
+    "imageFile": "robot_laputa.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Dans le mouvement",
+    "nom": "Nausicaä",
+    "explication": "Nausicaä ressent une connexion profonde avec chaque créature de la Forêt Toxique, qu'elle considère comme une part d'elle-même. Curieuse des inventions de son temps, elle les utilise avec enthousiasme pour développer des solutions propres qui permettront à l'homme et à la nature de coexister.",
+    "imageFile": "nausicaa.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Suiveur",
+    "nom": "Louis (fils de Dola)",
+    "explication": "Louis se sent proche du ciel et des éléments qu'il traverse sans cesse à bord de l'appareil familial. Prudent de nature, il préfère laisser les autres innover avant d'adopter des solutions propres et éprouvées pour ses machines",
+    "imageFile": "louis_fils_de_dola.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Méfiant",
+    "nom": "Princesse Mononoke",
+    "explication": "La Princesse Mononoke vit parmi les loups et se considère comme une enfant de la forêt bien plus que des hommes. Elle se méfie profondément des nouvelles technologies, qu'elle voit avant tout comme une menace pour l'équilibre fragile qu'elle cherche à préserver.",
+    "imageFile": "princesse_mononoke.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Réparation",
+    "relationTech": "Geek",
+    "nom": "Totoro",
+    "explication": "Totoro habite le cœur même de la forêt, dont il est à la fois le gardien et une part vivante. Émerveillé par tout ce qui pousse et grandit, il s'amuse à faire germer des graines et régénérer la nature avec une joie communicative",
+    "imageFile": "totoro.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Réparation",
+    "relationTech": "Dans le mouvement",
+    "nom": "Pocahontas",
+    "explication": "Pocahontas parle avec les arbres et les esprit de la nature, qu'elle considère comme des membres de sa propre famille. Ouverte aux échanges avec les nouveaux venus, elle cherche activement des moyens de guérir les blessures faites à sa terre et à restaurer l'harmonie.",
+    "imageFile": "pocahontas.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Réparation",
+    "relationTech": "Suiveur",
+    "nom": "Baloo",
+    "explication": "Baloo vit au rythme de la jungle, dont il connaît chaque recoin comme une part de lui-même. Peu pressé d'essayer les nouvelles idées, il préfère les méthodes éprouvées pour préserver et soigner le territoire qu'il aime tant (il lui en faut peu pour être heureux)",
+    "imageFile": "baloo.png"
+  },
+  {
+    "rapportVivant": "Animiste",
+    "visionProgres": "Réparation",
+    "relationTech": "Méfiant",
+    "nom": "Marsupilami",
+    "explication": "Le Marsupilami ne fait qu'un avec la jungle, dont il épouse chaque bruit et chaque mouvement avec une agilité surprenante. Méfiant envers ce qui vient de l'extérieur et de leur machine, il n'hésite pas à intervenir à sa manière, souvent chaotique , pour réparer ce que les hommes ont abîmé.",
+    "imageFile": "marsupilami.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Frugale",
+    "relationTech": "Geek",
+    "nom": "Robinson",
+    "explication": "Robinson a appris à quel point sa survie dépend entièrement des ressources de son île et prend soin de chaque plante, chaque animal qui l'entoure. Ingénieux et curieux, il adore bricoler de nouveaux outils avec les moyens du bord, testant sans cesse de nouvelles inventions par nécessité autant que par plaisir",
+    "imageFile": "robinson.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Frugale",
+    "relationTech": "Dans le mouvement",
+    "nom": "Barbapapa",
+    "explication": "Barbapapa veille sur la nature et les êtres qui l'entourent, conscient que leur bien-être à tous en dépend. Toujours partant pour essayer de nouvelles idées simples et écologiques, lui et sa famille aiment se transformer pour trouver des solutions ingénieuses avec peu de moyens",
+    "imageFile": "barbapapa.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Frugale",
+    "relationTech": "Suiveur",
+    "nom": "Charles Ingalls",
+    "explication": "Charles Ingalls sait que sa famille et sa ferme dépendent entièrement de la terre qu'il cultive avec soin. Attaché aux méthodes simples et éprouvées, il préfère la prudence aux nouveautés, se contentant de ce que la nature lui offre honnêtement.",
+    "imageFile": "charles_ingalls.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Frugale",
+    "relationTech": "Méfiant",
+    "nom": "Le Glaude",
+    "explication": "Le Glaude sait que sa soupe aux choux et sa survie dépendent de sa terre, qu'il cultive avec une attention bourrue mais sincère. Méfiant envers le monde moderne, il se contente de peu et regarde d'un œil soupçonneux tout ce qui vient troubler ses habitudes",
+    "imageFile": "le_glaude.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Coopération",
+    "relationTech": "Geek",
+    "nom": "Jean de Florette",
+    "explication": "Jean de Florette croit profondément que la terre peut nourrir sa famille s'il sait la comprendre et la respecter. Passionné par les méthodes agricoles modernes, il aime tester de nouvelles techniques et rêve de bâtir, avec l'aide de ses voisins, une exploitation prospère et durable",
+    "imageFile": "jean_de_florette.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Coopération",
+    "relationTech": "Dans le mouvement",
+    "nom": "Le Papé",
+    "explication": "Le Papé sait que la survie de sa lignée dépend de la terre et de ses secrets, qu'il connaît mieux que quiconque. Habile à tisser des alliances avec ceux qui l'entourent, il n'hésite pas à s'adapter et à saisir les opportunités qui se présentent pour arriver à ses fins.",
+    "imageFile": "le_pape.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Coopération",
+    "relationTech": "Suiveur",
+    "nom": "Hugolin",
+    "explication": "Hugolin voue toute son énergie à ses champs d'œillets, conscient que sa réussite dépend entièrement de la terre qu'il cultive. Fidèle aux méthodes de son oncle et peu enclin à l'expérimentation, il préfère suivre les conseils éprouvés tout en comptant sur l'entraide du village",
+    "imageFile": "ugolin.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Coopération",
+    "relationTech": "Méfiant",
+    "nom": "Manon des sources",
+    "explication": "Manon vit au rythme des sources et des collines, dont elle connaît chaque secret et dont dépend toute sa vie de bergère. Marquée par la trahison qu'a subie sa famille, elle se méfie des villageois mais choisit malgré tout de partager avec eux l'eau qu'elle a retrouvée",
+    "imageFile": "manon_des_sources.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Geek",
+    "nom": "Shuri (Black Panther)",
+    "explication": "Shuri sait que la prospérité du Wakanda dépend entièrement de la préservation de ses ressources naturelles et du vibranium. Passionnée par la technologie, elle invente sans relâche des solutions propres et innovantes qui allient progrès scientifique et respect de son environnement",
+    "imageFile": "shuri.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Dans le mouvement",
+    "nom": "Paul Atréides (Dune)",
+    "explication": "Paul comprend que la survie de tout un peuple dépend de l'épice et de l'équilibre fragile de Dune. Ouvert aux savoirs fremens qu'il découvre avec attention, il œuvre pour une transformation profonde de la planète qui la rendra plus verte et plus vivable",
+    "imageFile": "paul_atreides.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Suiveur",
+    "nom": "Jar Jar (Star Wars)",
+    "explication": "Jar Jar sait que les Gungans doivent leur survie aux marais et aux ressources de Naboo qu'ils cultivent avec soin. Peu enclin à prendre les devants, il suit avec bonne volonté les avancées technologiques propres que d'autres ont mises au point avant lui",
+    "imageFile": "jar_jar_binks.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Méfiant",
+    "nom": "Fremen (Dune)",
+    "explication": "Les Fremen savent que leur peuple ne survit que grâce à une gestion rigoureuse de l'eau et des ressources rares de Dune. Méfiants envers les étrangers et leurs promesses, ils n'adoptent les innovations écologiques qu'après s'être assurés qu'elles serviront réellement leur terre.",
+    "imageFile": "fremen.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Réparation",
+    "relationTech": "Geek",
+    "nom": "Rocket (Groot)",
+    "explication": "Rocket sait que Groot et lui ne font qu'un, leur survie et leur amitié dépendant l'une de l'autre. Bricoleur hors pair, il adore démonter, réparer et réinventer des technologies pour réparer les dégâts causés à leurs alliés comme à leur environnement",
+    "imageFile": "rocket.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Réparation",
+    "relationTech": "Dans le mouvement",
+    "nom": "Padmé Amidala (Star Wars)",
+    "explication": "Padmé sait que l'avenir de Naboo dépend de la préservation de ses écosystèmes et de son peuple. Ouverte aux nouvelles idées politiques et technologiques, elle œuvre activement pour réparer les torts causés par les conflits et restaurer la paix sur sa planète.",
+    "imageFile": "padme_amidala.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Réparation",
+    "relationTech": "Suiveur",
+    "nom": "Chewbaca",
+    "explication": "Chewbacca sait que sa survie et celle de ses proches dépendent des ressources qu'ils trouvent au fil de leurs voyages. Fidèle et peu pressé d'innover, il préfère réparer le Faucon Millenium avec des méthodes qu'il maîtrise déjà plutôt que de tenter l'inconnu.",
+    "imageFile": "chewbacca.png"
+  },
+  {
+    "rapportVivant": "Vivaliste",
+    "visionProgres": "Réparation",
+    "relationTech": "Méfiant",
+    "nom": "Gaston Lagaffe",
+    "explication": "Gaston sait, à sa manière, que son bien-être dépend de son environnement de bureau qu'il aménage à sa façon. Méfiant envers les nouveautés qu'on veut lui imposer, il préfère bricoler lui-même des réparations improbables plutôt que de suivre les méthodes des autres.",
+    "imageFile": "gaston_lagaffe.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Frugale",
+    "relationTech": "Geek",
+    "nom": "Frodon",
+    "explication": "Frodon aime observer et comprendre les terres qu'il traverse, curieux d'apprendre les secrets de chaque forêt et chaque rivière. Malgré son goût pour les objets anciens et mystérieux, il vit simplement, sac au dos, se contentant du strict nécessaire pour mener à bien sa quête",
+    "imageFile": "frodon.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Frugale",
+    "relationTech": "Dans le mouvement",
+    "nom": "Bilbo",
+    "explication": "Bilbo aime étudier les cartes, les langues et les créatures qu'il croise, toujours avide d'en apprendre davantage sur le monde qui l'entoure. Attaché à son confort simple de Hobbit, il sait pourtant s'enthousiasmer pour de nouvelles aventures et idées quand l'occasion se présente",
+    "imageFile": "bilbo.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Frugale",
+    "relationTech": "Suiveur",
+    "nom": "Sam",
+    "explication": "Sam connaît chaque plante et chaque recoin de son jardin, qu'il cultive avec patience et savoir-faire. Fidèle à ses habitudes simples, il préfère suivre Frodon sans chercher l'aventure, se contentant de peu tant qu'il peut prendre soin des siens.",
+    "imageFile": "sam.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Frugale",
+    "relationTech": "Méfiant",
+    "nom": "Merry",
+    "explication": "Merry aime comprendre le fonctionnement des choses, qu'il s'agisse des terres de la Comté ou des mystères qu'il découvre en chemin. Méfiant face aux nouveautés venues de l'extérieur, il préfère les solutions simples et éprouvées de son peuple.",
+    "imageFile": "merry.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Coopération",
+    "relationTech": "Geek",
+    "nom": "Tournesol",
+    "explication": "Le Professeur Tournesol passe ses journées à percer les mystères de la nature pour mieux la comprendre et s'en inspirer. Passionné par ses inventions, il aime les tester sans relâche, convaincu qu'elles serviront un jour à toute une communauté",
+    "imageFile": "tournesol.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Coopération",
+    "relationTech": "Dans le mouvement",
+    "nom": "Tintin",
+    "explication": "Tintin cherche toujours à comprendre les lieux et les cultures qu'il découvre au fil de ses voyages. Ouvert aux nouveautés et aux rencontres, il sait s'entourer d'alliés fidèles pour mener à bien ses enquêtes aux quatre coins du monde",
+    "imageFile": "tintin.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Coopération",
+    "relationTech": "Suiveur",
+    "nom": "Milou",
+    "explication": "Milou observe et flaire son environnement avec un instinct affûté, toujours attentif aux moindres indices. Fidèle compagnon avant tout, il suit Tintin sans chercher à innover, comptant sur la complicité de son maître pour avancer",
+    "imageFile": "milou.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Coopération",
+    "relationTech": "Méfiant",
+    "nom": "Haddock",
+    "explication": "Le Capitaine Haddock connaît la mer et ses caprices comme personne, fort de son expérience de marin aguerri. Râleur et méfiant face aux nouveautés, il n'en reste pas moins loyal envers son équipage, sur qui il sait pouvoir compter",
+    "imageFile": "haddock.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Geek",
+    "nom": "Tony Stark",
+    "explication": "Tony Stark cherche sans cesse à percer les lois de la physique et de la nature pour repousser les limites de la technologie. Fasciné par l'innovation, il développe des énergies propres et des inventions révolutionnaires, toujours le premier à tester ce qu'il vient d'imaginer",
+    "imageFile": "iron_man.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Dans le mouvement",
+    "nom": "Batman",
+    "explication": "Bruce Wayne étudie méthodiquement le fonctionnement de chaque système, qu'il s'agisse de criminologie ou de technologie urbaine. Ouvert aux innovations de son époque, il investit dans des solutions énergétiques propres pour moderniser Gotham et la rendre plus vivable",
+    "imageFile": "batman.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Suiveur",
+    "nom": "Spiderman",
+    "explication": "Peter Parker s'émerveille du fonctionnement de la nature et des sciences qu'il étudie avec assiduité au lycée. Peu pressé d'adopter les dernières nouveautés, il préfère s'appuyer sur des solutions simples et propres, déjà testées, pour continuer d'aider son quartier.",
+    "imageFile": "spiderman.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Croissance verte",
+    "relationTech": "Méfiant",
+    "nom": "Wolverine",
+    "explication": "Logan comprend instinctivement les forces de la nature grâce à ses sens aiguisés et son passé de chasseur. Méfiant envers les nouvelles technologies après tout ce qu'on lui a fait subir, il ne leur accorde sa confiance qu'avec la plus grande prudence",
+    "imageFile": "wolverine.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Réparation",
+    "relationTech": "Geek",
+    "nom": "Wall-E",
+    "explication": "Wall-E observe patiemment les rares plantes qui repoussent sur Terre, fasciné par ce mécanisme de vie qu'il ne comprend pas totalement. Bricoleur passionné, il adore collectionner et bidouiller des objets pour tenter, à sa manière, de réparer le monde qui l'entoure.",
+    "imageFile": "wall_e.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Réparation",
+    "relationTech": "Dans le mouvement",
+    "nom": "EVE",
+    "explication": "EVE analyse avec précision chaque forme de vie qu'elle rencontre, en quête du moindre signe de nature retrouvée. Équipée des dernières technologies, elle n'hésite pas à s'en servir pour ramener la preuve qui permettra de restaurer la Terre",
+    "imageFile": "eve.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Réparation",
+    "relationTech": "Suiveur",
+    "nom": "R2-D2",
+    "explication": "R2-D2 analyse méthodiquement chaque système qu'il croise, toujours prêt à en comprendre les rouages. Fidèle et discret, il préfère réparer ce qui existe déjà avec ses outils habituels plutôt que de se précipiter vers l'inconnu.",
+    "imageFile": "r2_d2.png"
+  },
+  {
+    "rapportVivant": "Naturaliste",
+    "visionProgres": "Réparation",
+    "relationTech": "Méfiant",
+    "nom": "C-6P0",
+    "explication": "C-6PO (ou C-3PO) analyse sans cesse les probabilités et le fonctionnement des systèmes qui l'entourent, avec un souci constant de précision. Méfiant de nature face au danger et à l'imprévu, il préfère les solutions connues et éprouvées pour réparer ce qui doit l'être.",
+    "imageFile": "c_3po.png"
+  }
+]

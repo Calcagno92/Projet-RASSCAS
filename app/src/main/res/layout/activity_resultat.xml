@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/fond_ecran"
+        android:scaleType="centerCrop"
+        android:contentDescription="Fond d'écran" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#B3FFFFFF" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:padding="32dp">
+
+            <TextView
+                android:id="@+id/nomPersonnage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp"
+                android:text="Nom du personnage"
+                android:textColor="#212121"
+                android:textSize="35sp"
+                android:textStyle="bold" />
+
+            <!-- Photo + explication côte à côte -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="40dp">
+
+                <ImageView
+                    android:id="@+id/imagePersonnage"
+                    android:layout_width="0dp"
+                    android:layout_height="480dp"
+                    android:layout_weight="1.3"
+                    android:contentDescription="Illustration du personnage"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    android:id="@+id/explicationPersonnage"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.9"
+                    android:layout_marginStart="24dp"
+                    android:gravity="center_vertical"
+                    android:text="Explication du personnage."
+                    android:textColor="#212121"
+                    android:textSize="35sp" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/boutonTerminer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Terminer" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

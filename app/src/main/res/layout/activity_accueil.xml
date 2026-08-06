@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Image de fond -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/fond_ecran"
+        android:scaleType="centerCrop"
+        android:contentDescription="Fond d'écran" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#B3FFFFFF" />
+
+
+    <ImageButton
+        android:id="@+id/boutonMenu"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="top|end"
+        android:layout_margin="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_menu"
+        android:contentDescription="Menu" />
+
+    <!-- Contenu -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="32dp">
+
+        <TextView
+            android:id="@+id/titre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Quel héro du futur es-tu ?"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:textColor="#212121"
+            android:layout_marginBottom="48dp" />
+
+        <EditText
+            android:id="@+id/champAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Âge"
+            android:inputType="number"
+            android:textColor="#212121"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/champMetier"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Métier"
+            android:inputType="text"
+            android:textColor="#212121"
+            android:layout_marginBottom="32dp" />
+
+        <Spinner
+            android:id="@+id/champSexe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/boutonCommencer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Commencer" />
+
+    </LinearLayout>
+
+</FrameLayout>

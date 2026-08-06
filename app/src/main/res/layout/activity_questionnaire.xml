@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/fond_ecran"
+        android:scaleType="centerCrop"
+        android:contentDescription="Fond d'écran" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#B3FFFFFF" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Question -->
+        <TextView
+            android:id="@+id/texteQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#212121"
+            android:gravity="center"
+            android:layout_marginBottom="32dp"
+            android:text="Question ?" />
+
+        <!-- Réponses sur les côtés : colonne gauche / colonne droite -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:descendantFocusability="blocksDescendants">
+
+            <LinearLayout
+                android:id="@+id/colonneGauche"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:gravity="center_vertical" />
+
+            <!-- Espace central réservé au déplacement de la boule -->
+            <View
+                android:layout_width="80dp"
+                android:layout_height="match_parent" />
+
+            <LinearLayout
+                android:id="@+id/colonneDroite"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:gravity="center_vertical" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Boule de sélection, positionnée dynamiquement en code (translationX/Y) -->
+    <View
+        android:id="@+id/boule"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:background="@drawable/boule_rouge"
+        android:layout_gravity="top|start" />
+
+    <!-- Flèche retour (bas gauche) -->
+    <ImageButton
+        android:id="@+id/boutonRetour"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@android:drawable/ic_media_previous"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:contentDescription="Question précédente" />
+
+</FrameLayout>
