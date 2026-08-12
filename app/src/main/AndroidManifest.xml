@@ -5,6 +5,8 @@
         android:allowBackup="true"
         android:label="48 Êtres du Futur"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true">
 
         <activity
