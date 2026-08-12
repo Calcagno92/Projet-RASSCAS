@@ -57,7 +57,7 @@ class QuestionnaireActivity : AppCompatActivity() {
     private lateinit var boutonRetour: View
 
     // Infos utilisateur transmises depuis l'accueil
-    private var age = 0
+    private var age = ""
     private var metier = ""
     private var sexe = ""
 
@@ -66,7 +66,7 @@ class QuestionnaireActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_questionnaire)
 
-        age = intent.getIntExtra("age", 0)
+        age = intent.getStringExtra("age") ?: ""
         metier = intent.getStringExtra("metier") ?: ""
         sexe = intent.getStringExtra("sexe") ?: ""
 

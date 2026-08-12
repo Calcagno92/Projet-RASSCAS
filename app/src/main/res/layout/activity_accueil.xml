@@ -11,12 +11,10 @@
         android:scaleType="centerCrop"
         android:contentDescription="Fond d'écran" />
 
-
     <View
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#B3FFFFFF" />
-
 
     <ImageButton
         android:id="@+id/boutonMenu"
@@ -46,29 +44,23 @@
             android:textColor="#212121"
             android:layout_marginBottom="48dp" />
 
-        <EditText
+        <Spinner
             android:id="@+id/champAge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Âge"
-            android:inputType="number"
-            android:textColor="#212121"
-            android:layout_marginBottom="16dp" />
+            android:layout_marginBottom="32dp" />
 
-        <EditText
+        <Spinner
             android:id="@+id/champMetier"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Métier"
-            android:inputType="text"
-            android:textColor="#212121"
             android:layout_marginBottom="32dp" />
 
         <Spinner
             android:id="@+id/champSexe"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp" />
+            android:layout_marginBottom="32dp" />
 
         <Button
             android:id="@+id/boutonCommencer"

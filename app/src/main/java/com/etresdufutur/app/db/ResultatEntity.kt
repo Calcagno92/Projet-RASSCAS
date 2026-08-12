@@ -6,7 +6,7 @@ import androidx.room.PrimaryKey
 @Entity(tableName = "resultats")
 data class ResultatEntity(
     @PrimaryKey(autoGenerate = true) val id: Int = 0,
-    val age: Int,
+    val age: String,
     val sexe: String,
     val metier: String,
     val personnage: String,

@@ -19,7 +19,7 @@ class ResultatActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_resultat)
 
-        val age = intent.getIntExtra("age", 0)
+        val age = intent.getStringExtra("age") ?: ""
         val sexe = intent.getStringExtra("sexe") ?: ""
         val metier = intent.getStringExtra("metier") ?: ""
         val rapportVivant = intent.getStringExtra("rapportVivant") ?: ""
@@ -56,7 +56,7 @@ class ResultatActivity : AppCompatActivity() {
         }
     }
 
-    private fun enregistrerResultat(age: Int, sexe: String, metier: String, nomPersonnage: String) {
+    private fun enregistrerResultat(age: String, sexe: String, metier: String, nomPersonnage: String) {
         val extras = intent.extras
 
         val entite = ResultatEntity(
